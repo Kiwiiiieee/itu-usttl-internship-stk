@@ -1,6 +1,6 @@
 # ITU Space Systems Design & Test Laboratory: Internship
 
-*Engineering internship (R&D) · Istanbul Technical University · 11 Aug – 5 Sep 2025*
+*Engineering internship (R&D) · Istanbul Technical University · 11 Aug to 5 Sep 2025*
 
 ![STK 3D view of the three-satellite constellation over Istanbul](figures/stk3d.png)
 
@@ -56,12 +56,11 @@ The header image is the STK 3D view of the constellation and sensor cones over I
 
 ## Repository contents
 | Path | Content | Opens with |
-|---|---|---|
+|:--|:--|:--|
 | `report/INTERNSHIP_REPORT.pdf` | Internship report (25 pages) | Any PDF reader |
 | `figures/` | STK screenshots | Image viewer |
 
 ## How to reproduce
 The STK scenario files are not included. The constellation scenario can be rebuilt in Ansys STK (Pro) with the settings listed above and in the report (Week 4). The workflow follows the Harding Labs "Calculating Satellite Visitation Frequency with STK (Pro Version)" guide.
 
----
 Kaoutar Ammara · Aerospace Engineer · [GitHub](https://github.com/Kiwiiiieee) · [LinkedIn](https://linkedin.com/in/kaoutar-ammara)
